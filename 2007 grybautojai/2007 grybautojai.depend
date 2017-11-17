@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480782159 source:c:\users\admin\desktop\kb\2007 grybautojai\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
